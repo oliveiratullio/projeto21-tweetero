@@ -1,0 +1,1 @@
+{"version":3,"file":"tweets.entity.js","sourceRoot":"","sources":["../../src/entities/tweets.entity.ts"],"names":[],"mappings":";;;AAAA,MAAa,KAAK;IAKd,YAAY,QAAgB,EAAE,MAAc,EAAE,KAAa;QACzD,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAA;QACxB,IAAI,CAAC,MAAM,GAAG,MAAM,CAAA;QACpB,IAAI,CAAC,KAAK,GAAG,KAAK,CAAA;IACpB,CAAC;CACF;AAVH,sBAUG"}
